@@ -5,7 +5,7 @@
       "page": "Page {{ page }}"
     },
     "404": {
-      "title": "404 Page Not Found",
+      "title": "Nothing Found | 404",
       "subtext_html": "Oops! You're not supposed to be here! Click <a href=\"\/collections\/all\">here<\/a> to continue shopping."
     },
     "breadcrumbs": {
@@ -13,7 +13,7 @@
       "home_link_title": "Back to the home page"
     },
     "newsletter_form": {
-      "newsletter_email": "email@example.com",
+      "newsletter_email": "harry@thirdfloordesign.co.uk",
       "submit": "Subscribe",
       "confirmation": "Thanks for subscribing"
     },
